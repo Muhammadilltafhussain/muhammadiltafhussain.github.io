@@ -1,0 +1,62 @@
+#pak{ height:30%;
+    border-bottom-color: darkseagreen;
+    position: fixed;
+}
+
+.ist{
+    font-size: 20;
+    color: red;
+ background: gold;
+}
+.ii{
+color: deepskyblue;
+    font-size: 30;
+text-align: center;
+position: static;
+  background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+th{
+    float: left;
+    margin-left: 12;
+    margin-right: 900;
+    
+}#ihtesham{ 
+	color: red;
+
+    background-color: chartreuse;
+    text-shadow: 7px 6px 7px blue;}
+pa{
+background-color: darkgreen;
+    
+    
+}
+
+
+#ihtesham ul{
+    margin-bottom: 300;
+font-size: 20;
+text-align: center;
+  
+    
+}
+
+}
+a:{
+    color: aqua;
+    background: red;
+}
+#d li hover {
+background-color: darksalmon;
+    
+}
+#three {
+    color: chartreuse;
+    text-align: center;
+  background: linear-gradient(-90deg, red, yellow);
+    
+}{
+    background-color: #7CFC000;
+    
+    
+}

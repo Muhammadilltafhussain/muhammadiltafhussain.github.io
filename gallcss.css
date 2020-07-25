@@ -1,0 +1,28 @@
+p {
+    background-color: coral;
+    color: aqua;
+    overflow :scroll;
+    border-left-color: blueviolet;
+    border: 3;
+    border-bottom-style: inset;}
+.ii{
+color: deepskyblue;
+    font-size: 30;
+text-align: center;
+position: static;
+  background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+pa{ 
+    height: 700;
+    width: 1200;
+    border-color: red;
+    background-color: aqua;
+    color: fuchsia;
+    border-style: inset;
+    
+}.ll{
+    width: auto;
+    color: yellowgreen;
+    border-style: inset;
+}
